@@ -224,7 +224,7 @@ function desativaTecladoVirtual (){
 
 telaInicial()
 
-let bancoPalavras = ['TEXTO','MELANCIA','ANDROID','FONE','CASA','TELEFONE','GATO','CACHORRO','BOLA','CARRO']
+let bancoPalavras = ['SITIO','JACA','ANDROID','ALURA','ORACLE']
 let palavraEscolhida = ''
 let letrasAdv = []
 let letrasErradas = []
